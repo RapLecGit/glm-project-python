@@ -1,0 +1,7 @@
+# Dossiers à ignorer
+__pycache__/
+data/
+.env
+
+# Fichiers compilés Python
+*.pyc
